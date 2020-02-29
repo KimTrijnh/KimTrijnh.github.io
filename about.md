@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I'm a seft taught Fullstack Developer for Ruby & Python.
 
-email: agus[at]python.web.id
+email: 'h.h@com' 

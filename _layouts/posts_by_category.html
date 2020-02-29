@@ -37,7 +37,9 @@ layout: default
         {% endif %}
       {% endif %}
         <ul class="posts">
+          {% if post.published == true %}
           <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+          {% endif %}
         </ul>
       {% if forloop.last %}
         </div>
